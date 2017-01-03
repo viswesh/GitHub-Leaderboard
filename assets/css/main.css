@@ -1,0 +1,58 @@
+body {
+    background-image: url("../images/congruent_pentagon.png");
+}
+
+.rigthpane {
+    opacity: 0.8;
+}
+
+nav {
+    background-color: #ffffff!important;
+    opacity: 0.8;
+}
+
+.collection-item.avatar, .container img {
+    cursor:pointer;
+}
+
+.collection-item.avatar:hover {
+    color: #4DB7A6;
+}
+
+.detailgroup {
+    overflow: hidden;
+    width:100%;
+}
+
+.detailgroup i {
+    margin: 40px 0;
+    color: darkseagreen;
+    font-size: 7rem;
+    display: block;
+}
+
+#details {
+    margin-top:40px;
+}
+
+#details img {
+    max-width: 150px;
+}
+
+#details .avatar {
+    padding: 10px;
+}
+
+.autocomplete-content.dropdown-content {
+    position: absolute;
+    max-width: 350px;
+}
+
+.brand-logo {
+    margin-left: 10px;
+}
+
+.brand-logo img {
+    max-width: 60px;
+}
+

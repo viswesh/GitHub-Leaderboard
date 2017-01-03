@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GitHub Leaderboard</title>
+    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/css/materialize.min.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+<!-- Navigation -->
+<nav>
+    <div class="nav-wrapper">
+        <a href="#!" class="brand-logo">
+            <img src="assets/images/leaderboard.png">
+            <img src="assets/images/GitHub-Mark.png">
+        </a>
+
+    </div>
+</nav>
+
+<!-- Page Layout  -->
+<div class="row">
+
+    <div class="col s7 leftpane">
+        <!-- left page content  -->
+        <div id="details" class="container">
+            <!-- Page Content goes here -->
+        </div>
+    </div>
+
+    <div class="col s5 rigthpane">
+        <!-- right page panel -->
+        <div class="input-field col s12">
+            <i class="material-icons prefix">code</i>
+            <input type="text" id="autocomplete-input" class="autocomplete"/>
+            <label for="autocomplete-input">Filter by programming language</label>
+        </div>
+        <ul id="main" class="collection"></ul>
+    </div>
+
+</div>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/js/materialize.min.js"></script>
+<script src="dist/bundle.js"></script>
+</body>
+</html>

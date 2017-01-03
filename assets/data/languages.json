@@ -1,0 +1,280 @@
+[
+  {
+    "name": "Ada",
+    "url": "https://api.plapi.io/programming-languages/ada/",
+    "homepage_url": "http://www.adaic.org/",
+    "year_appeared": 1980,
+    "summary": "Ada is an statically typed, imperative paradigm programming language.",
+    "tutorials": []
+  },
+  {
+    "name": "Arc",
+    "url": "https://api.plapi.io/programming-languages/arc/",
+    "homepage_url": "http://arclanguage.org/",
+    "year_appeared": 2008,
+    "summary": "Arc is a dialect of Lisp intended for exploratory programming.",
+    "tutorials": []
+  },
+  {
+    "name": "Bash",
+    "url": "https://api.plapi.io/programming-languages/bash/",
+    "homepage_url": "https://www.gnu.org/software/bash/",
+    "year_appeared": 1989,
+    "summary": "Bash, the Bourne Again SHell is an open source Unix shell and command language.",
+    "tutorials": []
+  },
+  {
+    "name": "C#",
+    "url": "https://api.plapi.io/programming-languages/c-sharp/",
+    "homepage_url": "",
+    "year_appeared": 2000,
+    "summary": "C# is a multi-paradigm programming language originally developed by Microsoft for its .NET platform.",
+    "tutorials": []
+  },
+  {
+    "name": "C++",
+    "url": "https://api.plapi.io/programming-languages/c-plus-plus/",
+    "homepage_url": "https://isocpp.org/",
+    "year_appeared": 1983,
+    "summary": "C++ is an imperative and object-oriented language that enhances the C programming language with classes and related features such as inheritance, templates and exceptions.",
+    "tutorials": []
+  },
+  {
+    "name": "Ceylon",
+    "url": "https://api.plapi.io/programming-languages/ceylon/",
+    "homepage_url": "http://ceylon-lang.org/",
+    "year_appeared": 2011,
+    "summary": "Ceylon is an open source, statically-typed object-oriented programming language that can create programs that run on the Java Virtual Machine or transcompiled to JavaScript.",
+    "tutorials": []
+  },
+  {
+    "name": "Clojure",
+    "url": "https://api.plapi.io/programming-languages/clojure/",
+    "homepage_url": "http://clojure.org/",
+    "year_appeared": 2007,
+    "summary": "Clojure is functional paradigm programming language heavily influenced by Lisp.",
+    "tutorials": []
+  },
+  {
+    "name": "CoffeeScript",
+    "url": "https://api.plapi.io/programming-languages/coffeescript/",
+    "homepage_url": "http://coffeescript.org/",
+    "year_appeared": 2009,
+    "summary": "CoffeeScript is a multi-paradigm language the transcompiles to JavaScript.",
+    "tutorials": []
+  },
+  {
+    "name": "Common Lisp",
+    "url": "https://api.plapi.io/programming-languages/common-lisp/",
+    "homepage_url": "https://common-lisp.net/",
+    "year_appeared": 1984,
+    "summary": "Common Lisp is a standardized dialect specification of the Lisp Programming Language. Several implementations of the specification are available.",
+    "tutorials": []
+  },
+  {
+    "name": "Crystal",
+    "url": "https://api.plapi.io/programming-languages/crystal/",
+    "homepage_url": "http://crystal-lang.org/",
+    "year_appeared": 2012,
+    "summary": "Crystal is a dynamically-typed Ruby-inspired language that compiles to machine code instead of bytecode or running on an interpreter.",
+    "tutorials": []
+  },
+  {
+    "name": "D",
+    "url": "https://api.plapi.io/programming-languages/d/",
+    "homepage_url": "http://dlang.org/",
+    "year_appeared": 2001,
+    "summary": "D is a multi-paradigm (object-oriented, functional and generic) statically-typed language originally intended as a C++ replacement but has now developed beyond that original goal.",
+    "tutorials": []
+  },
+  {
+    "name": "Dart",
+    "url": "https://api.plapi.io/programming-languages/dart/",
+    "homepage_url": "https://www.dartlang.org/",
+    "year_appeared": 2013,
+    "summary": "Dart is a multi-paradigm (object-oriented, imperative and functional) language that transcompiles into JavaScript. The language was originally created by Google but now has an official EcmaScript (ECMA-408) specification.",
+    "tutorials": []
+  },
+  {
+    "name": "Elixir",
+    "url": "https://api.plapi.io/programming-languages/elixir/",
+    "homepage_url": "http://elixir-lang.org/",
+    "year_appeared": 2012,
+    "summary": "Elixir is a multi-paradigm (functional, distributed and process-oriented) dynamically-typed language that runs on the Erlang virtual machine. Elixir is open sourced under the Apache 2 license.",
+    "tutorials": []
+  },
+  {
+    "name": "Elm",
+    "url": "https://api.plapi.io/programming-languages/elm/",
+    "homepage_url": "http://elm-lang.org/",
+    "year_appeared": 2012,
+    "summary": "Elm is a functional paradigm language intended for declaratively building web applications.",
+    "tutorials": []
+  },
+  {
+    "name": "Erlang",
+    "url": "https://api.plapi.io/programming-languages/erlang/",
+    "homepage_url": "http://www.erlang.org/",
+    "year_appeared": 1986,
+    "summary": "Erlang is a dynamically-typed, functional and concurrent paradigm often used for highly available and fault tolerant systems. Erlang is open sourced under the Apache 2 license.",
+    "tutorials": []
+  },
+  {
+    "name": "Go",
+    "url": "https://api.plapi.io/programming-languages/go-lang/",
+    "homepage_url": "https://golang.org/",
+    "year_appeared": 2009,
+    "summary": "Go is a strongly statically-typed, BSD-licensed open source language originally built at Google.",
+    "tutorials": []
+  },
+  {
+    "name": "Groovy",
+    "url": "https://api.plapi.io/programming-languages/groovy/",
+    "homepage_url": "http://www.groovy-lang.org/",
+    "year_appeared": 2003,
+    "summary": "Groovy is a dynamically-typed, object-oriented paradigm language that runs on the Java Virtual Machine and is open sourced under the Apache 2 license.",
+    "tutorials": []
+  },
+  {
+    "name": "Haskell",
+    "url": "https://api.plapi.io/programming-languages/haskell/",
+    "homepage_url": "https://www.haskell.org/",
+    "year_appeared": 1990,
+    "summary": "Haskell is a statically-typed functional paradigm language named after logician Haskell Curry.",
+    "tutorials": []
+  },
+  {
+    "name": "Haxe",
+    "url": "https://api.plapi.io/programming-languages/haxe/",
+    "homepage_url": "http://haxe.org/",
+    "year_appeared": 2005,
+    "summary": "Haxe is an open source statically-typed multi-paradigm programming language.",
+    "tutorials": []
+  },
+  {
+    "name": "Java",
+    "url": "https://api.plapi.io/programming-languages/java/",
+    "homepage_url": "https://www.java.com/",
+    "year_appeared": 1995,
+    "summary": "Java is an object-oriented paradigm, statically-typed language originally created with the goal for developers to write code once and run it on any platform the Java Virtual Machine (JVM) is available.",
+    "tutorials": [
+      "https://api.plapi.io/tutorials/getting-started-ip-messaging-android/"
+    ]
+  },
+  {
+    "name": "JavaScript",
+    "url": "https://api.plapi.io/programming-languages/javascript/",
+    "homepage_url": "",
+    "year_appeared": 1995,
+    "summary": "JavaScript is a dynamically-typed interpreted language supported by all major web browsers and is increasingly used to write server-side web application code as well.",
+    "tutorials": []
+  },
+  {
+    "name": "Julia",
+    "url": "https://api.plapi.io/programming-languages/julia/",
+    "homepage_url": "http://julialang.org/",
+    "year_appeared": 2012,
+    "summary": "Julia is a multi-paradigm (procedural, object-oriented and functional), dynamically-typed general purpose language often used for scientific computing.",
+    "tutorials": []
+  },
+  {
+    "name": "Kotlin",
+    "url": "https://api.plapi.io/programming-languages/kotlin/",
+    "homepage_url": "http://kotlinlang.org/",
+    "year_appeared": 2011,
+    "summary": "Kotlin is a statically-typed language for the Java Virtual Machine that is open source under the Apache 2 license.",
+    "tutorials": []
+  },
+  {
+    "name": "Lua",
+    "url": "https://api.plapi.io/programming-languages/lua/",
+    "homepage_url": "http://www.lua.org/",
+    "year_appeared": 1993,
+    "summary": "Lua is a dynamically-typed scripting language open sourced under the MIT license.",
+    "tutorials": []
+  },
+  {
+    "name": "Objective-C",
+    "url": "https://api.plapi.io/programming-languages/objective-c/",
+    "homepage_url": "",
+    "year_appeared": 1983,
+    "summary": "Objective-C is a statically-typed, objective-oriented paradigm based on the C language.",
+    "tutorials": []
+  },
+  {
+    "name": "Perl",
+    "url": "https://api.plapi.io/programming-languages/perl/",
+    "homepage_url": "https://www.perl.org/",
+    "year_appeared": 1987,
+    "summary": "Perl is a functional paradigm, dynamically-typed language open sourced under the GNU license. Perl 5 and Perl 6 are separate languages therefore Perl is sometimes referred to as \"a family of programming languages\" rather than a single entity.",
+    "tutorials": []
+  },
+  {
+    "name": "PHP",
+    "url": "https://api.plapi.io/programming-languages/php/",
+    "homepage_url": "https://www.php.net/",
+    "year_appeared": 1995,
+    "summary": "PHP, which currently stands for PHP: Hypertext Preprocessor, is a dynamically-typed scripting language typically used for server-side web development.",
+    "tutorials": []
+  },
+  {
+    "name": "Python",
+    "url": "https://api.plapi.io/programming-languages/python/",
+    "homepage_url": "https://www.python.org/",
+    "year_appeared": 1991,
+    "summary": "Python is dynamically typed.",
+    "tutorials": [
+      "https://api.plapi.io/tutorials/programmatically-populating-django-database/",
+      "https://api.plapi.io/tutorials/real-python/",
+      "https://api.plapi.io/tutorials/full-stack-python/"
+    ]
+  },
+  {
+    "name": "Red",
+    "url": "https://api.plapi.io/programming-languages/red/",
+    "homepage_url": "http://www.red-lang.org/",
+    "year_appeared": 2011,
+    "summary": "Red is a functional programming language inspired by REBOL.",
+    "tutorials": []
+  },
+  {
+    "name": "Ruby",
+    "url": "https://api.plapi.io/programming-languages/ruby/",
+    "homepage_url": "http://www.ruby-lang.org/en/",
+    "year_appeared": 1995,
+    "summary": "Ruby is a dynamically typed multi-paradigm language that blends object-oriented and functional programming.",
+    "tutorials": []
+  },
+  {
+    "name": "Rust",
+    "url": "https://api.plapi.io/programming-languages/rust/",
+    "homepage_url": "https://www.rust-lang.org/",
+    "year_appeared": 2010,
+    "summary": "Rust is a statically-typed language intended for concurrent and highly safe software programs.",
+    "tutorials": []
+  },
+  {
+    "name": "Scala",
+    "url": "https://api.plapi.io/programming-languages/scala/",
+    "homepage_url": "http://www.scala-lang.org/",
+    "year_appeared": 2004,
+    "summary": "Scala is a strongly statically-typed multi-paradigm (object-oriented and functional) language that compiles to Java bytecode to run on the Java Virtual Machine.",
+    "tutorials": []
+  },
+  {
+    "name": "Swift",
+    "url": "https://api.plapi.io/programming-languages/swift/",
+    "homepage_url": "https://developer.apple.com/swift/",
+    "year_appeared": 2014,
+    "summary": "Swift is a multi-paradigm open source programming language originally developed by Apple.",
+    "tutorials": []
+  },
+  {
+    "name": "Wolfram Language",
+    "url": "https://api.plapi.io/programming-languages/wolfram-language/",
+    "homepage_url": "http://www.wolfram.com/language/",
+    "year_appeared": 2013,
+    "summary": "The Wolfram Language is a dynamically-typed proprietary licensed language for mathematical computation. The language existed in some form for over 25 years before its official introduction in 2013.",
+    "tutorials": []
+  }
+]
