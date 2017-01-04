@@ -13,6 +13,7 @@ Development setup transpiles ES2015 (including modules) with Babel, Gulp and Bro
 # Using
 
 Run `gulp` from the command line for transpiling source code at /src
+
 Run `gulp watch` to watch and transpile from /src
 
 The project is currently setup to transpile code under the _/src_ folder using the
